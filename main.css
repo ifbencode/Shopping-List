@@ -1,0 +1,44 @@
+body {
+	background-image: url('Melamine-wood-001.png');
+}
+
+.desktop {
+	position: absolute;
+	min-width: 1170px;
+}
+
+.post-it {
+	width: 600px;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+
+.input {
+	position: relative;
+	margin-top: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 300px;
+}
+
+.instructions {
+	position: relative;
+	left: 30px;
+	top: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 700;
+}
+
+.sharpie {
+	position: absolute;
+	top: 10px;
+	left: 180px;
+}
+
+.notebook {
+	position: absolute;
+	float: right;
+	top: 80px;
+	right: 80px;
+}
