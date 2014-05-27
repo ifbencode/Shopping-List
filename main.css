@@ -1,5 +1,5 @@
 body {
-	background-image: url('Melamine-wood-001.png');
+	background-image: url('images/Melamine-wood-001.png');
 }
 
 .desktop {
@@ -7,8 +7,7 @@ body {
 	min-width: 1170px;
 }
 
-.post-it {
-	width: 600px;
+.postit {
 	position: relative;
 	top: 30px;
 	left: 30px;
@@ -16,7 +15,8 @@ body {
 
 .input {
 	position: relative;
-	margin-top: 20px;
+	margin-top: 50px;
+	left: 30px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	width: 300px;
@@ -25,9 +25,9 @@ body {
 .instructions {
 	position: relative;
 	left: 30px;
-	top: 20px;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 700;
+	margin-top: 5px;
 }
 
 .sharpie {
