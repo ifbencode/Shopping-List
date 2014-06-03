@@ -36,9 +36,17 @@ body {
 	left: 180px;
 }
 
-.notebook {
+.paper {
 	position: absolute;
-	float: right;
 	top: 80px;
 	right: 80px;
+}
+
+.items {
+	font-family: 'Rock Salt', cursive;
+	font-size: 1.25em;
+	line-height: 2.25em;
+	position: absolute;
+	top: 80px;
+	left: 150px;
 }
